@@ -1,2 +1,2 @@
 # http://princeupes.github.io
-Mathematics quiz game in html and CSS JS
+Here is my personal portfolio u can check it by given link
